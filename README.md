@@ -2,6 +2,8 @@
 
 *A project to generate Python [ctypes]() API code from Haskell foreign exports*
 
+[![Build Status](https://jenkins.trm.io/buildStatus/icon?job=PyHask)](https://jenkins.trm.io/job/PyHask)
+
 ## Project Status
 
 At the moment, absolutely nothing is working. I am attempting to progress in `pyhask-example` (found in the `example` subdir).
