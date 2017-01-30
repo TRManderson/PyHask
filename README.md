@@ -12,7 +12,3 @@ There's a bug in Stack with  the `-fPIC` flag that I'm attempting to sort out, t
 
 Some Stanford students produced a [project with similar goals to PyHask](https://github.com/ddfisher/HaPy), though on the Haskell side, it's a Template Haskell library. I intend to look into this a bit further.
 
-
-### Note
-
-I've enabled [nix](https://nixos.org/nix/) integration in my `stack.yaml` files. I'm not certain of the behaviour of `stack` when nix is enabled but not installed. 
