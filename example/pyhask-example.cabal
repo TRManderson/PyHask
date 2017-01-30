@@ -1,5 +1,5 @@
 name:                pyhask-example
-version:             0.1.0.0
+version:             0.0.0.2
 synopsis:            Basic FFI library to test out
 description:         Please see README.md
 homepage:            https://github.com/TRManderson/pyhask/tree/master/example
